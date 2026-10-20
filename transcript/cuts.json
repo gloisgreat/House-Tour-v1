@@ -1,0 +1,113 @@
+{
+ "segments": [
+  {
+   "file": "raw/dji_mimo_20261018_143618_0461_1792358171817_video_glamour.mp4",
+   "start": 1.0,
+   "end": 4.0,
+   "text": "Exterior push-in",
+   "roll": 0
+  },
+  {
+   "file": "raw/dji_mimo_20261018_143756_0464_1792358185249_video_glamour.mp4",
+   "start": 1.5,
+   "end": 3.5,
+   "text": "Entry: green wall and console",
+   "roll": 3.0
+  },
+  {
+   "file": "raw/dji_mimo_20261018_143810_0465_1792358189957_video_glamour.mp4",
+   "start": 3.3,
+   "end": 5.3,
+   "text": "Hallway reveal to the stairs",
+   "roll": -6.5
+  },
+  {
+   "file": "raw/dji_mimo_20261018_152424_0510_1792360794686_video_glamour.mp4",
+   "start": 2.0,
+   "end": 4.5,
+   "text": "Living room pan",
+   "roll": 0
+  },
+  {
+   "file": "raw/dji_mimo_20261018_144312_0474_1792358306313_video_glamour.mp4",
+   "start": 1.0,
+   "end": 3.0,
+   "text": "Linear fireplace",
+   "roll": -3.4
+  },
+  {
+   "file": "raw/dji_mimo_20261018_144038_0469_1792358272092_video_glamour.mp4",
+   "start": 3.0,
+   "end": 5.5,
+   "text": "Kitchen waterfall island",
+   "roll": 3.7
+  },
+  {
+   "file": "raw/dji_mimo_20261018_152412_0509_1792360790838_video_glamour.mp4",
+   "start": 4.5,
+   "end": 6.5,
+   "text": "Kitchen and dining wide",
+   "roll": 0
+  },
+  {
+   "file": "raw/dji_mimo_20261018_144336_0476_1792358312339_video_glamour.mp4",
+   "start": 0.0,
+   "end": 2.0,
+   "text": "Office",
+   "roll": 0
+  },
+  {
+   "file": "raw/dji_mimo_20261018_144428_0478_1792358322899_video_glamour.mp4",
+   "start": 1.0,
+   "end": 3.0,
+   "text": "Staircase",
+   "roll": 0
+  },
+  {
+   "file": "raw/dji_mimo_20261018_144836_0489_1792358375757_video_glamour.mp4",
+   "start": 1.0,
+   "end": 3.0,
+   "text": "Bedroom seating",
+   "roll": 3.0
+  },
+  {
+   "file": "raw/dji_mimo_20261018_144908_0490_1792358388001_video_glamour.mp4",
+   "start": 0.0,
+   "end": 2.0,
+   "text": "Balcony view",
+   "roll": -4.0
+  },
+  {
+   "file": "raw/dji_mimo_20261018_144510_0480_1792358332477_video_glamour.mp4",
+   "start": 0.0,
+   "end": 2.5,
+   "text": "Primary bath tub",
+   "roll": 1.5
+  },
+  {
+   "file": "raw/dji_mimo_20261018_144538_0481_1792358344526_video_glamour.mp4",
+   "start": 7.0,
+   "end": 9.0,
+   "text": "Walk-in closet",
+   "roll": -5.3
+  },
+  {
+   "file": "raw/dji_mimo_20261018_144638_0483_1792358360395_video_glamour.mp4",
+   "start": 0.0,
+   "end": 2.0,
+   "text": "Arched vanity",
+   "roll": 1.5
+  },
+  {
+   "file": "raw/dji_mimo_20261018_152402_0508_1792360785775_video_glamour.mp4",
+   "start": 0.5,
+   "end": 4.5,
+   "text": "Finale: wide living and kitchen",
+   "roll": 0
+  }
+ ],
+ "output": {
+  "width": 1080,
+  "height": 1920
+ }
+}

@@ -1,0 +1,2168 @@
+{
+"raw/dji_mimo_20261018_143618_0461_1792358171817_video_glamour.mp4": {
+"fps": 30.0,
+"frames": 240,
+"bins": [
+{
+"t": 0.0,
+"tilt": -0.4,
+"motion": 2.9,
+"jerk": 0.4
+},
+{
+"t": 0.5,
+"tilt": 0.0,
+"motion": 3.4,
+"jerk": 0.5
+},
+{
+"t": 1.0,
+"tilt": 0.0,
+"motion": 5.9,
+"jerk": 0.3
+},
+{
+"t": 1.5,
+"tilt": 0.0,
+"motion": 9.3,
+"jerk": 0.3
+},
+{
+"t": 2.0,
+"tilt": 0.0,
+"motion": 11.0,
+"jerk": 0.6
+},
+{
+"t": 2.5,
+"tilt": 0.0,
+"motion": 8.8,
+"jerk": 3.3
+},
+{
+"t": 3.0,
+"tilt": 0.0,
+"motion": 9.5,
+"jerk": 2.0
+},
+{
+"t": 3.5,
+"tilt": -0.6,
+"motion": 10.0,
+"jerk": 0.7
+},
+{
+"t": 4.0,
+"tilt": 1.16,
+"motion": 7.4,
+"jerk": 0.2
+},
+{
+"t": 4.5,
+"tilt": 4.37,
+"motion": 5.8,
+"jerk": 0.3
+},
+{
+"t": 5.0,
+"tilt": 4.21,
+"motion": 6.8,
+"jerk": 0.1
+},
+{
+"t": 5.5,
+"tilt": 3.04,
+"motion": 8.1,
+"jerk": 0.2
+},
+{
+"t": 6.0,
+"tilt": 2.31,
+"motion": 8.7,
+"jerk": 0.4
+},
+{
+"t": 6.5,
+"tilt": 2.39,
+"motion": 8.5,
+"jerk": 0.1
+},
+{
+"t": 7.0,
+"tilt": 1.79,
+"motion": 7.7,
+"jerk": 0.1
+},
+{
+"t": 7.5,
+"tilt": 0.0,
+"motion": 5.5,
+"jerk": 0.1
+}
+]
+},
+"raw/dji_mimo_20261018_143756_0464_1792358185249_video_glamour.mp4": {
+"fps": 30.0,
+"frames": 270,
+"bins": [
+{
+"t": 0.0,
+"tilt": null,
+"motion": 36.5,
+"jerk": 5.0
+},
+{
+"t": 0.5,
+"tilt": null,
+"motion": 44.4,
+"jerk": 27.3
+},
+{
+"t": 1.0,
+"tilt": null,
+"motion": 5.2,
+"jerk": 0.2
+},
+{
+"t": 1.5,
+"tilt": 3.47,
+"motion": 3.3,
+"jerk": 4.0
+},
+{
+"t": 2.0,
+"tilt": null,
+"motion": 4.2,
+"jerk": 1.2
+},
+{
+"t": 2.5,
+"tilt": null,
+"motion": 7.4,
+"jerk": 5.6
+},
+{
+"t": 3.0,
+"tilt": 3.18,
+"motion": 10.7,
+"jerk": 5.2
+},
+{
+"t": 3.5,
+"tilt": 4.21,
+"motion": 12.2,
+"jerk": 0.0
+},
+{
+"t": 4.0,
+"tilt": 5.59,
+"motion": 17.4,
+"jerk": 1.1
+},
+{
+"t": 4.5,
+"tilt": 10.82,
+"motion": 16.1,
+"jerk": 0.7
+},
+{
+"t": 5.0,
+"tilt": 10.99,
+"motion": 13.3,
+"jerk": 1.2
+},
+{
+"t": 5.5,
+"tilt": 11.6,
+"motion": 20.7,
+"jerk": 3.2
+},
+{
+"t": 6.0,
+"tilt": 11.41,
+"motion": 13.2,
+"jerk": 0.7
+},
+{
+"t": 6.5,
+"tilt": 11.45,
+"motion": 14.6,
+"jerk": 1.1
+},
+{
+"t": 7.0,
+"tilt": 11.37,
+"motion": 10.3,
+"jerk": 11.1
+},
+{
+"t": 7.5,
+"tilt": 11.31,
+"motion": 21.5,
+"jerk": 12.8
+},
+{
+"t": 8.0,
+"tilt": 10.82,
+"motion": 16.7,
+"jerk": 0.6
+},
+{
+"t": 8.5,
+"tilt": 10.74,
+"motion": 10.0,
+"jerk": 0.1
+}
+]
+},
+"raw/dji_mimo_20261018_143810_0465_1792358189957_video_glamour.mp4": {
+"fps": 30.0,
+"frames": 180,
+"bins": [
+{
+"t": 0.0,
+"tilt": -5.87,
+"motion": 6.0,
+"jerk": 0.9
+},
+{
+"t": 0.5,
+"tilt": 0.0,
+"motion": 8.0,
+"jerk": 0.1
+},
+{
+"t": 1.0,
+"tilt": 0.0,
+"motion": 12.9,
+"jerk": 0.2
+},
+{
+"t": 1.5,
+"tilt": -5.65,
+"motion": 21.7,
+"jerk": 0.5
+},
+{
+"t": 2.0,
+"tilt": -5.43,
+"motion": 16.8,
+"jerk": 16.0
+},
+{
+"t": 2.5,
+"tilt": -4.61,
+"motion": 15.9,
+"jerk": 17.1
+},
+{
+"t": 3.0,
+"tilt": -7.65,
+"motion": 21.6,
+"jerk": 1.1
+},
+{
+"t": 3.5,
+"tilt": -6.78,
+"motion": 14.4,
+"jerk": 0.6
+},
+{
+"t": 4.0,
+"tilt": -6.55,
+"motion": 11.6,
+"jerk": 0.4
+},
+{
+"t": 4.5,
+"tilt": -6.07,
+"motion": 7.2,
+"jerk": 0.1
+},
+{
+"t": 5.0,
+"tilt": -5.55,
+"motion": 2.6,
+"jerk": 0.2
+},
+{
+"t": 5.5,
+"tilt": -5.24,
+"motion": 1.1,
+"jerk": 0.1
+}
+]
+},
+"raw/dji_mimo_20261018_143934_0467_1792358198135_video_glamour.mp4": {
+"fps": 30.0,
+"frames": 150,
+"bins": [
+{
+"t": 0.0,
+"tilt": -4.87,
+"motion": 2.2,
+"jerk": 0.4
+},
+{
+"t": 0.5,
+"tilt": -4.1,
+"motion": 3.2,
+"jerk": 0.7
+},
+{
+"t": 1.0,
+"tilt": -4.24,
+"motion": 10.0,
+"jerk": 0.3
+},
+{
+"t": 1.5,
+"tilt": -5.86,
+"motion": 16.8,
+"jerk": 0.2
+},
+{
+"t": 2.0,
+"tilt": 7.85,
+"motion": 23.4,
+"jerk": 0.6
+},
+{
+"t": 2.5,
+"tilt": 6.47,
+"motion": 30.3,
+"jerk": 1.2
+},
+{
+"t": 3.0,
+"tilt": -3.95,
+"motion": 26.1,
+"jerk": 0.4
+},
+{
+"t": 3.5,
+"tilt": null,
+"motion": 20.2,
+"jerk": 0.7
+},
+{
+"t": 4.0,
+"tilt": null,
+"motion": 19.2,
+"jerk": 0.8
+},
+{
+"t": 4.5,
+"tilt": 2.49,
+"motion": 15.9,
+"jerk": 0.2
+}
+]
+},
+"raw/dji_mimo_20261018_144038_0469_1792358272092_video_glamour.mp4": {
+"fps": 30.0,
+"frames": 180,
+"bins": [
+{
+"t": 0.0,
+"tilt": null,
+"motion": 9.2,
+"jerk": 1.9
+},
+{
+"t": 0.5,
+"tilt": null,
+"motion": 11.7,
+"jerk": 0.5
+},
+{
+"t": 1.0,
+"tilt": null,
+"motion": 13.7,
+"jerk": 0.8
+},
+{
+"t": 1.5,
+"tilt": 3.84,
+"motion": 10.8,
+"jerk": 3.8
+},
+{
+"t": 2.0,
+"tilt": 4.12,
+"motion": 9.1,
+"jerk": 2.9
+},
+{
+"t": 2.5,
+"tilt": 3.0,
+"motion": 5.3,
+"jerk": 1.3
+},
+{
+"t": 3.0,
+"tilt": 5.92,
+"motion": 9.2,
+"jerk": 2.9
+},
+{
+"t": 3.5,
+"tilt": 5.95,
+"motion": 7.9,
+"jerk": 5.1
+},
+{
+"t": 4.0,
+"tilt": 5.76,
+"motion": 5.6,
+"jerk": 0.3
+},
+{
+"t": 4.5,
+"tilt": 6.93,
+"motion": 5.1,
+"jerk": 0.1
+},
+{
+"t": 5.0,
+"tilt": 5.71,
+"motion": 3.4,
+"jerk": 0.7
+},
+{
+"t": 5.5,
+"tilt": 5.42,
+"motion": 1.5,
+"jerk": 0.4
+}
+]
+},
+"raw/dji_mimo_20261018_144216_0471_1792358284821_video_glamour.mp4": {
+"fps": 30.0,
+"frames": 330,
+"bins": [
+{
+"t": 0.0,
+"tilt": -4.4,
+"motion": 4.9,
+"jerk": 0.8
+},
+{
+"t": 0.5,
+"tilt": -3.3,
+"motion": 5.9,
+"jerk": 0.2
+},
+{
+"t": 1.0,
+"tilt": -3.98,
+"motion": 6.8,
+"jerk": 0.2
+},
+{
+"t": 1.5,
+"tilt": -3.15,
+"motion": 16.5,
+"jerk": 2.5
+},
+{
+"t": 2.0,
+"tilt": -2.94,
+"motion": 22.6,
+"jerk": 0.3
+},
+{
+"t": 2.5,
+"tilt": -8.05,
+"motion": 23.9,
+"jerk": 0.3
+},
+{
+"t": 3.0,
+"tilt": -7.68,
+"motion": 24.9,
+"jerk": 0.3
+},
+{
+"t": 3.5,
+"tilt": -7.24,
+"motion": 26.4,
+"jerk": 0.8
+},
+{
+"t": 4.0,
+"tilt": -10.45,
+"motion": 26.6,
+"jerk": 1.1
+},
+{
+"t": 4.5,
+"tilt": -9.9,
+"motion": 26.3,
+"jerk": 0.1
+},
+{
+"t": 5.0,
+"tilt": -9.81,
+"motion": 27.5,
+"jerk": 0.1
+},
+{
+"t": 5.5,
+"tilt": -10.24,
+"motion": 28.5,
+"jerk": 2.1
+},
+{
+"t": 6.0,
+"tilt": -10.48,
+"motion": 23.1,
+"jerk": 0.5
+},
+{
+"t": 6.5,
+"tilt": -9.99,
+"motion": 23.5,
+"jerk": 0.1
+},
+{
+"t": 7.0,
+"tilt": -9.52,
+"motion": 23.7,
+"jerk": 0.2
+},
+{
+"t": 7.5,
+"tilt": -8.95,
+"motion": 23.7,
+"jerk": 0.4
+},
+{
+"t": 8.0,
+"tilt": -8.72,
+"motion": 25.4,
+"jerk": 0.6
+},
+{
+"t": 8.5,
+"tilt": -8.45,
+"motion": 28.0,
+"jerk": 0.3
+},
+{
+"t": 9.0,
+"tilt": -7.03,
+"motion": 25.9,
+"jerk": 0.4
+},
+{
+"t": 9.5,
+"tilt": -6.53,
+"motion": 21.5,
+"jerk": 0.4
+},
+{
+"t": 10.0,
+"tilt": -6.73,
+"motion": 12.0,
+"jerk": 0.3
+},
+{
+"t": 10.5,
+"tilt": -6.86,
+"motion": 6.2,
+"jerk": 0.3
+}
+]
+},
+"raw/dji_mimo_20261018_144236_0472_1792358294529_video_glamour.mp4": {
+"fps": 30.0,
+"frames": 390,
+"bins": [
+{
+"t": 0.0,
+"tilt": -9.95,
+"motion": 0.2,
+"jerk": 0.0
+},
+{
+"t": 0.5,
+"tilt": -10.34,
+"motion": 7.5,
+"jerk": 2.5
+},
+{
+"t": 1.0,
+"tilt": -11.21,
+"motion": 15.9,
+"jerk": 0.2
+},
+{
+"t": 1.5,
+"tilt": null,
+"motion": 16.7,
+"jerk": 0.2
+},
+{
+"t": 2.0,
+"tilt": null,
+"motion": 18.1,
+"jerk": 0.4
+},
+{
+"t": 2.5,
+"tilt": 2.31,
+"motion": 18.8,
+"jerk": 0.1
+},
+{
+"t": 3.0,
+"tilt": 4.01,
+"motion": 21.3,
+"jerk": 0.5
+},
+{
+"t": 3.5,
+"tilt": 2.83,
+"motion": 11.0,
+"jerk": 2.9
+},
+{
+"t": 4.0,
+"tilt": 3.76,
+"motion": 15.1,
+"jerk": 0.2
+},
+{
+"t": 4.5,
+"tilt": 4.53,
+"motion": 19.1,
+"jerk": 0.2
+},
+{
+"t": 5.0,
+"tilt": -0.56,
+"motion": 20.0,
+"jerk": 0.2
+},
+{
+"t": 5.5,
+"tilt": 1.12,
+"motion": 20.3,
+"jerk": 0.3
+},
+{
+"t": 6.0,
+"tilt": 3.39,
+"motion": 22.5,
+"jerk": 0.3
+},
+{
+"t": 6.5,
+"tilt": 7.13,
+"motion": 23.7,
+"jerk": 0.2
+},
+{
+"t": 7.0,
+"tilt": 6.81,
+"motion": 21.3,
+"jerk": 0.2
+},
+{
+"t": 7.5,
+"tilt": 5.51,
+"motion": 19.7,
+"jerk": 0.1
+},
+{
+"t": 8.0,
+"tilt": 3.5,
+"motion": 18.6,
+"jerk": 0.2
+},
+{
+"t": 8.5,
+"tilt": 5.15,
+"motion": 18.0,
+"jerk": 0.1
+},
+{
+"t": 9.0,
+"tilt": 6.84,
+"motion": 18.9,
+"jerk": 1.0
+},
+{
+"t": 9.5,
+"tilt": 6.11,
+"motion": 18.1,
+"jerk": 0.3
+},
+{
+"t": 10.0,
+"tilt": 7.57,
+"motion": 16.6,
+"jerk": 0.2
+},
+{
+"t": 10.5,
+"tilt": 10.44,
+"motion": 15.1,
+"jerk": 0.3
+},
+{
+"t": 11.0,
+"tilt": 9.35,
+"motion": 12.4,
+"jerk": 0.5
+},
+{
+"t": 11.5,
+"tilt": 7.62,
+"motion": 8.2,
+"jerk": 0.4
+},
+{
+"t": 12.0,
+"tilt": 7.17,
+"motion": 2.8,
+"jerk": 0.3
+},
+{
+"t": 12.5,
+"tilt": 7.47,
+"motion": 1.4,
+"jerk": 0.1
+}
+]
+},
+"raw/dji_mimo_20261018_144252_0473_1792358299806_video_glamour.mp4": {
+"fps": 30.0,
+"frames": 180,
+"bins": [
+{
+"t": 0.0,
+"tilt": -1.08,
+"motion": 0.6,
+"jerk": 0.1
+},
+{
+"t": 0.5,
+"tilt": -1.27,
+"motion": 2.1,
+"jerk": 0.1
+},
+{
+"t": 1.0,
+"tilt": null,
+"motion": 5.2,
+"jerk": 0.3
+},
+{
+"t": 1.5,
+"tilt": 0.0,
+"motion": 7.6,
+"jerk": 0.4
+},
+{
+"t": 2.0,
+"tilt": 0.0,
+"motion": 10.4,
+"jerk": 0.2
+},
+{
+"t": 2.5,
+"tilt": -0.85,
+"motion": 12.5,
+"jerk": 0.2
+},
+{
+"t": 3.0,
+"tilt": null,
+"motion": 12.9,
+"jerk": 0.3
+},
+{
+"t": 3.5,
+"tilt": -4.69,
+"motion": 16.9,
+"jerk": 0.4
+},
+{
+"t": 4.0,
+"tilt": -5.11,
+"motion": 18.2,
+"jerk": 0.5
+},
+{
+"t": 4.5,
+"tilt": -4.76,
+"motion": 15.7,
+"jerk": 0.1
+},
+{
+"t": 5.0,
+"tilt": -4.85,
+"motion": 14.0,
+"jerk": 0.0
+},
+{
+"t": 5.5,
+"tilt": -4.33,
+"motion": 11.9,
+"jerk": 0.2
+}
+]
+},
+"raw/dji_mimo_20261018_144312_0474_1792358306313_video_glamour.mp4": {
+"fps": 30.0,
+"frames": 240,
+"bins": [
+{
+"t": 0.0,
+"tilt": null,
+"motion": 3.4,
+"jerk": 0.7
+},
+{
+"t": 0.5,
+"tilt": -7.27,
+"motion": 6.6,
+"jerk": 0.8
+},
+{
+"t": 1.0,
+"tilt": -6.77,
+"motion": 12.9,
+"jerk": 0.6
+},
+{
+"t": 1.5,
+"tilt": -5.46,
+"motion": 17.4,
+"jerk": 0.4
+},
+{
+"t": 2.0,
+"tilt": -5.25,
+"motion": 23.1,
+"jerk": 2.1
+},
+{
+"t": 2.5,
+"tilt": -2.08,
+"motion": 22.2,
+"jerk": 0.4
+},
+{
+"t": 3.0,
+"tilt": -1.17,
+"motion": 25.5,
+"jerk": 0.8
+},
+{
+"t": 3.5,
+"tilt": -4.36,
+"motion": 19.4,
+"jerk": 4.1
+},
+{
+"t": 4.0,
+"tilt": -4.26,
+"motion": 17.9,
+"jerk": 0.9
+},
+{
+"t": 4.5,
+"tilt": -1.71,
+"motion": 13.9,
+"jerk": 1.4
+},
+{
+"t": 5.0,
+"tilt": -1.99,
+"motion": 11.5,
+"jerk": 0.4
+},
+{
+"t": 5.5,
+"tilt": -3.79,
+"motion": 12.8,
+"jerk": 0.5
+},
+{
+"t": 6.0,
+"tilt": null,
+"motion": 14.5,
+"jerk": 4.4
+},
+{
+"t": 6.5,
+"tilt": 0.0,
+"motion": 8.4,
+"jerk": 0.3
+},
+{
+"t": 7.0,
+"tilt": null,
+"motion": 1.9,
+"jerk": 0.4
+},
+{
+"t": 7.5,
+"tilt": null,
+"motion": 1.2,
+"jerk": 0.2
+}
+]
+},
+"raw/dji_mimo_20261018_144336_0476_1792358312339_video_glamour.mp4": {
+"fps": 30.0,
+"frames": 90,
+"bins": [
+{
+"t": 0.0,
+"tilt": 6.45,
+"motion": 0.8,
+"jerk": 0.3
+},
+{
+"t": 0.5,
+"tilt": 6.44,
+"motion": 0.9,
+"jerk": 0.3
+},
+{
+"t": 1.0,
+"tilt": 6.16,
+"motion": 1.1,
+"jerk": 0.8
+},
+{
+"t": 1.5,
+"tilt": null,
+"motion": 1.2,
+"jerk": 0.3
+},
+{
+"t": 2.0,
+"tilt": null,
+"motion": 4.0,
+"jerk": 7.1
+},
+{
+"t": 2.5,
+"tilt": null,
+"motion": 2.9,
+"jerk": 0.3
+}
+]
+},
+"raw/dji_mimo_20261018_144400_0477_1792358316588_video_glamour.mp4": {
+"fps": 30.0,
+"frames": 150,
+"bins": [
+{
+"t": 0.0,
+"tilt": 2.56,
+"motion": 4.2,
+"jerk": 0.9
+},
+{
+"t": 0.5,
+"tilt": 3.0,
+"motion": 4.0,
+"jerk": 0.4
+},
+{
+"t": 1.0,
+"tilt": 3.97,
+"motion": 10.0,
+"jerk": 0.5
+},
+{
+"t": 1.5,
+"tilt": 2.44,
+"motion": 19.7,
+"jerk": 4.7
+},
+{
+"t": 2.0,
+"tilt": null,
+"motion": 20.3,
+"jerk": 6.5
+},
+{
+"t": 2.5,
+"tilt": 10.8,
+"motion": 18.3,
+"jerk": 6.4
+},
+{
+"t": 3.0,
+"tilt": 8.31,
+"motion": 6.7,
+"jerk": 13.8
+},
+{
+"t": 3.5,
+"tilt": 8.3,
+"motion": 7.3,
+"jerk": 1.3
+},
+{
+"t": 4.0,
+"tilt": 8.53,
+"motion": 18.4,
+"jerk": 0.6
+},
+{
+"t": 4.5,
+"tilt": 8.15,
+"motion": 19.4,
+"jerk": 0.9
+}
+]
+},
+"raw/dji_mimo_20261018_144428_0478_1792358322899_video_glamour.mp4": {
+"fps": 30.0,
+"frames": 240,
+"bins": [
+{
+"t": 0.0,
+"tilt": null,
+"motion": 7.0,
+"jerk": 2.0
+},
+{
+"t": 0.5,
+"tilt": -4.7,
+"motion": 11.6,
+"jerk": 2.5
+},
+{
+"t": 1.0,
+"tilt": -4.38,
+"motion": 11.8,
+"jerk": 5.6
+},
+{
+"t": 1.5,
+"tilt": -3.69,
+"motion": 9.9,
+"jerk": 4.5
+},
+{
+"t": 2.0,
+"tilt": -3.61,
+"motion": 6.5,
+"jerk": 0.6
+},
+{
+"t": 2.5,
+"tilt": -1.17,
+"motion": 8.7,
+"jerk": 0.3
+},
+{
+"t": 3.0,
+"tilt": 1.7,
+"motion": 13.8,
+"jerk": 5.6
+},
+{
+"t": 3.5,
+"tilt": 3.71,
+"motion": 4.3,
+"jerk": 0.7
+},
+{
+"t": 4.0,
+"tilt": 4.43,
+"motion": 3.5,
+"jerk": 0.2
+},
+{
+"t": 4.5,
+"tilt": null,
+"motion": 3.4,
+"jerk": 0.1
+},
+{
+"t": 5.0,
+"tilt": null,
+"motion": 5.6,
+"jerk": 0.3
+},
+{
+"t": 5.5,
+"tilt": -2.18,
+"motion": 11.4,
+"jerk": 0.1
+},
+{
+"t": 6.0,
+"tilt": null,
+"motion": 15.6,
+"jerk": 0.3
+},
+{
+"t": 6.5,
+"tilt": null,
+"motion": 17.0,
+"jerk": 0.1
+},
+{
+"t": 7.0,
+"tilt": -9.15,
+"motion": 17.5,
+"jerk": 0.3
+},
+{
+"t": 7.5,
+"tilt": -7.55,
+"motion": 13.9,
+"jerk": 0.4
+}
+]
+},
+"raw/dji_mimo_20261018_144510_0480_1792358332477_video_glamour.mp4": {
+"fps": 30.0,
+"frames": 120,
+"bins": [
+{
+"t": 0.0,
+"tilt": 2.12,
+"motion": 0.7,
+"jerk": 0.1
+},
+{
+"t": 0.5,
+"tilt": 2.06,
+"motion": 1.0,
+"jerk": 0.0
+},
+{
+"t": 1.0,
+"tilt": null,
+"motion": 2.1,
+"jerk": 0.1
+},
+{
+"t": 1.5,
+"tilt": -1.03,
+"motion": 3.4,
+"jerk": 0.4
+},
+{
+"t": 2.0,
+"tilt": -1.16,
+"motion": 7.1,
+"jerk": 0.4
+},
+{
+"t": 2.5,
+"tilt": -1.19,
+"motion": 9.7,
+"jerk": 0.5
+},
+{
+"t": 3.0,
+"tilt": -3.46,
+"motion": 8.6,
+"jerk": 1.6
+},
+{
+"t": 3.5,
+"tilt": -6.57,
+"motion": 5.9,
+"jerk": 0.7
+}
+]
+},
+"raw/dji_mimo_20261018_144538_0481_1792358344526_video_glamour.mp4": {
+"fps": 30.0,
+"frames": 510,
+"bins": [
+{
+"t": 0.0,
+"tilt": 6.67,
+"motion": 0.5,
+"jerk": 0.2
+},
+{
+"t": 0.5,
+"tilt": 6.65,
+"motion": 1.3,
+"jerk": 0.2
+},
+{
+"t": 1.0,
+"tilt": 7.98,
+"motion": 1.8,
+"jerk": 0.2
+},
+{
+"t": 1.5,
+"tilt": 9.75,
+"motion": 2.7,
+"jerk": 0.5
+},
+{
+"t": 2.0,
+"tilt": 4.17,
+"motion": 4.8,
+"jerk": 0.6
+},
+{
+"t": 2.5,
+"tilt": -3.73,
+"motion": 10.2,
+"jerk": 0.6
+},
+{
+"t": 3.0,
+"tilt": -3.64,
+"motion": 13.8,
+"jerk": 0.5
+},
+{
+"t": 3.5,
+"tilt": -5.77,
+"motion": 10.9,
+"jerk": 0.4
+},
+{
+"t": 4.0,
+"tilt": -6.2,
+"motion": 10.8,
+"jerk": 0.2
+},
+{
+"t": 4.5,
+"tilt": -6.5,
+"motion": 17.4,
+"jerk": 0.4
+},
+{
+"t": 5.0,
+"tilt": -4.59,
+"motion": 29.6,
+"jerk": 2.2
+},
+{
+"t": 5.5,
+"tilt": -2.2,
+"motion": 28.5,
+"jerk": 0.7
+},
+{
+"t": 6.0,
+"tilt": -10.1,
+"motion": 27.9,
+"jerk": 2.0
+},
+{
+"t": 6.5,
+"tilt": -6.99,
+"motion": 22.0,
+"jerk": 0.7
+},
+{
+"t": 7.0,
+"tilt": -4.35,
+"motion": 7.7,
+"jerk": 6.4
+},
+{
+"t": 7.5,
+"tilt": -10.84,
+"motion": 8.0,
+"jerk": 1.6
+},
+{
+"t": 8.0,
+"tilt": -9.96,
+"motion": 4.2,
+"jerk": 2.0
+},
+{
+"t": 8.5,
+"tilt": -9.68,
+"motion": 7.3,
+"jerk": 6.0
+},
+{
+"t": 9.0,
+"tilt": null,
+"motion": 7.9,
+"jerk": 3.0
+},
+{
+"t": 9.5,
+"tilt": null,
+"motion": 11.9,
+"jerk": 4.8
+},
+{
+"t": 10.0,
+"tilt": -5.71,
+"motion": 6.2,
+"jerk": 0.7
+},
+{
+"t": 10.5,
+"tilt": null,
+"motion": 3.4,
+"jerk": 4.2
+},
+{
+"t": 11.0,
+"tilt": null,
+"motion": 11.4,
+"jerk": 28.0
+},
+{
+"t": 11.5,
+"tilt": null,
+"motion": 13.6,
+"jerk": 10.0
+},
+{
+"t": 12.0,
+"tilt": null,
+"motion": 6.0,
+"jerk": 2.5
+},
+{
+"t": 12.5,
+"tilt": null,
+"motion": 19.3,
+"jerk": 13.7
+},
+{
+"t": 13.0,
+"tilt": null,
+"motion": 37.2,
+"jerk": 21.9
+},
+{
+"t": 13.5,
+"tilt": null,
+"motion": 39.0,
+"jerk": 25.5
+},
+{
+"t": 14.0,
+"tilt": null,
+"motion": 9.5,
+"jerk": 30.2
+},
+{
+"t": 14.5,
+"tilt": null,
+"motion": 7.0,
+"jerk": 23.8
+},
+{
+"t": 15.0,
+"tilt": 9.93,
+"motion": 35.4,
+"jerk": 1.5
+},
+{
+"t": 15.5,
+"tilt": 8.23,
+"motion": 18.3,
+"jerk": 1.1
+},
+{
+"t": 16.0,
+"tilt": 9.36,
+"motion": 13.6,
+"jerk": 0.2
+},
+{
+"t": 16.5,
+"tilt": 8.33,
+"motion": 9.7,
+"jerk": 0.1
+}
+]
+},
+"raw/dji_mimo_20261018_144638_0483_1792358360395_video_glamour.mp4": {
+"fps": 30.0,
+"frames": 90,
+"bins": [
+{
+"t": 0.0,
+"tilt": 3.86,
+"motion": 2.0,
+"jerk": 0.3
+},
+{
+"t": 0.5,
+"tilt": 4.5,
+"motion": 3.4,
+"jerk": 2.1
+},
+{
+"t": 1.0,
+"tilt": 6.61,
+"motion": 5.4,
+"jerk": 2.3
+},
+{
+"t": 1.5,
+"tilt": 6.51,
+"motion": 8.3,
+"jerk": 3.0
+},
+{
+"t": 2.0,
+"tilt": 4.18,
+"motion": 19.2,
+"jerk": 15.5
+},
+{
+"t": 2.5,
+"tilt": 2.49,
+"motion": 5.3,
+"jerk": 1.0
+}
+]
+},
+"raw/dji_mimo_20261018_144654_0484_1792358366048_video_glamour.mp4": {
+"fps": 30.0,
+"frames": 210,
+"bins": [
+{
+"t": 0.0,
+"tilt": -9.68,
+"motion": 4.2,
+"jerk": 0.1
+},
+{
+"t": 0.5,
+"tilt": -5.75,
+"motion": 12.3,
+"jerk": 0.2
+},
+{
+"t": 1.0,
+"tilt": -5.42,
+"motion": 20.5,
+"jerk": 0.6
+},
+{
+"t": 1.5,
+"tilt": 0.0,
+"motion": 21.8,
+"jerk": 0.3
+},
+{
+"t": 2.0,
+"tilt": 4.01,
+"motion": 23.0,
+"jerk": 0.5
+},
+{
+"t": 2.5,
+"tilt": 5.17,
+"motion": 21.2,
+"jerk": 0.1
+},
+{
+"t": 3.0,
+"tilt": 2.86,
+"motion": 18.5,
+"jerk": 0.3
+},
+{
+"t": 3.5,
+"tilt": 6.96,
+"motion": 18.4,
+"jerk": 0.1
+},
+{
+"t": 4.0,
+"tilt": 5.93,
+"motion": 19.2,
+"jerk": 0.3
+},
+{
+"t": 4.5,
+"tilt": 9.15,
+"motion": 21.3,
+"jerk": 0.3
+},
+{
+"t": 5.0,
+"tilt": 7.61,
+"motion": 20.3,
+"jerk": 0.7
+},
+{
+"t": 5.5,
+"tilt": 5.89,
+"motion": 18.3,
+"jerk": 0.3
+},
+{
+"t": 6.0,
+"tilt": 7.13,
+"motion": 16.1,
+"jerk": 0.2
+},
+{
+"t": 6.5,
+"tilt": 8.21,
+"motion": 13.0,
+"jerk": 0.2
+}
+]
+},
+"raw/dji_mimo_20261018_144804_0487_1792358371591_video_glamour.mp4": {
+"fps": 30.0,
+"frames": 120,
+"bins": [
+{
+"t": 0.0,
+"tilt": -5.1,
+"motion": 2.1,
+"jerk": 0.2
+},
+{
+"t": 0.5,
+"tilt": -4.6,
+"motion": 2.9,
+"jerk": 0.1
+},
+{
+"t": 1.0,
+"tilt": -4.53,
+"motion": 4.9,
+"jerk": 0.4
+},
+{
+"t": 1.5,
+"tilt": -4.1,
+"motion": 9.7,
+"jerk": 0.5
+},
+{
+"t": 2.0,
+"tilt": -3.21,
+"motion": 7.3,
+"jerk": 2.0
+},
+{
+"t": 2.5,
+"tilt": -3.34,
+"motion": 3.3,
+"jerk": 3.8
+},
+{
+"t": 3.0,
+"tilt": -2.65,
+"motion": 3.6,
+"jerk": 3.5
+},
+{
+"t": 3.5,
+"tilt": -1.99,
+"motion": 3.4,
+"jerk": 1.2
+}
+]
+},
+"raw/dji_mimo_20261018_144836_0489_1792358375757_video_glamour.mp4": {
+"fps": 30.0,
+"frames": 150,
+"bins": [
+{
+"t": 0.0,
+"tilt": null,
+"motion": 1.3,
+"jerk": 0.3
+},
+{
+"t": 0.5,
+"tilt": null,
+"motion": 2.9,
+"jerk": 0.5
+},
+{
+"t": 1.0,
+"tilt": 2.86,
+"motion": 7.8,
+"jerk": 0.3
+},
+{
+"t": 1.5,
+"tilt": 2.95,
+"motion": 8.7,
+"jerk": 0.6
+},
+{
+"t": 2.0,
+"tilt": 3.07,
+"motion": 9.1,
+"jerk": 0.1
+},
+{
+"t": 2.5,
+"tilt": 3.39,
+"motion": 11.9,
+"jerk": 0.5
+},
+{
+"t": 3.0,
+"tilt": 3.9,
+"motion": 18.6,
+"jerk": 0.2
+},
+{
+"t": 3.5,
+"tilt": 4.34,
+"motion": 21.2,
+"jerk": 0.3
+},
+{
+"t": 4.0,
+"tilt": 5.03,
+"motion": 20.3,
+"jerk": 0.3
+},
+{
+"t": 4.5,
+"tilt": 5.51,
+"motion": 18.6,
+"jerk": 0.2
+}
+]
+},
+"raw/dji_mimo_20261018_144908_0490_1792358388001_video_glamour.mp4": {
+"fps": 30.0,
+"frames": 510,
+"bins": [
+{
+"t": 0.0,
+"tilt": -4.85,
+"motion": 1.5,
+"jerk": 0.3
+},
+{
+"t": 0.5,
+"tilt": -6.13,
+"motion": 2.5,
+"jerk": 0.1
+},
+{
+"t": 1.0,
+"tilt": -4.09,
+"motion": 4.9,
+"jerk": 0.2
+},
+{
+"t": 1.5,
+"tilt": -3.24,
+"motion": 10.7,
+"jerk": 0.2
+},
+{
+"t": 2.0,
+"tilt": -4.4,
+"motion": 15.7,
+"jerk": 0.4
+},
+{
+"t": 2.5,
+"tilt": -4.03,
+"motion": 17.3,
+"jerk": 0.3
+},
+{
+"t": 3.0,
+"tilt": -3.51,
+"motion": 18.6,
+"jerk": 0.3
+},
+{
+"t": 3.5,
+"tilt": -3.25,
+"motion": 18.4,
+"jerk": 0.2
+},
+{
+"t": 4.0,
+"tilt": -5.08,
+"motion": 25.3,
+"jerk": 1.4
+},
+{
+"t": 4.5,
+"tilt": -7.17,
+"motion": 31.2,
+"jerk": 0.3
+},
+{
+"t": 5.0,
+"tilt": null,
+"motion": 29.3,
+"jerk": 0.7
+},
+{
+"t": 5.5,
+"tilt": null,
+"motion": 28.7,
+"jerk": 0.6
+},
+{
+"t": 6.0,
+"tilt": null,
+"motion": 27.9,
+"jerk": 0.1
+},
+{
+"t": 6.5,
+"tilt": null,
+"motion": 25.9,
+"jerk": 3.1
+},
+{
+"t": 7.0,
+"tilt": null,
+"motion": 5.9,
+"jerk": 0.7
+},
+{
+"t": 7.5,
+"tilt": null,
+"motion": 1.1,
+"jerk": 0.4
+},
+{
+"t": 8.0,
+"tilt": -11.16,
+"motion": 4.6,
+"jerk": 0.2
+},
+{
+"t": 8.5,
+"tilt": -10.42,
+"motion": 13.2,
+"jerk": 1.9
+},
+{
+"t": 9.0,
+"tilt": -9.99,
+"motion": 15.7,
+"jerk": 0.8
+},
+{
+"t": 9.5,
+"tilt": null,
+"motion": 14.3,
+"jerk": 0.6
+},
+{
+"t": 10.0,
+"tilt": null,
+"motion": 10.2,
+"jerk": 0.3
+},
+{
+"t": 10.5,
+"tilt": null,
+"motion": 5.8,
+"jerk": 0.2
+},
+{
+"t": 11.0,
+"tilt": null,
+"motion": 2.8,
+"jerk": 0.2
+},
+{
+"t": 11.5,
+"tilt": null,
+"motion": 1.1,
+"jerk": 0.4
+},
+{
+"t": 12.0,
+"tilt": null,
+"motion": 9.4,
+"jerk": 2.2
+},
+{
+"t": 12.5,
+"tilt": null,
+"motion": 14.2,
+"jerk": 2.3
+},
+{
+"t": 13.0,
+"tilt": null,
+"motion": 0.9,
+"jerk": 1.1
+},
+{
+"t": 13.5,
+"tilt": null,
+"motion": 0.3,
+"jerk": 0.1
+},
+{
+"t": 14.0,
+"tilt": null,
+"motion": 0.1,
+"jerk": 0.1
+},
+{
+"t": 14.5,
+"tilt": null,
+"motion": 0.1,
+"jerk": 0.1
+},
+{
+"t": 15.0,
+"tilt": null,
+"motion": 1.3,
+"jerk": 2.2
+},
+{
+"t": 15.5,
+"tilt": null,
+"motion": 14.8,
+"jerk": 1.0
+},
+{
+"t": 16.0,
+"tilt": null,
+"motion": 15.3,
+"jerk": 1.7
+},
+{
+"t": 16.5,
+"tilt": -1.95,
+"motion": 1.4,
+"jerk": 2.0
+}
+]
+},
+"raw/dji_mimo_20261018_152330_0507_1792360781151_video_glamour.mp4": {
+"fps": 30.0,
+"frames": 180,
+"bins": [
+{
+"t": 0.0,
+"tilt": 0.0,
+"motion": 0.1,
+"jerk": 0.0
+},
+{
+"t": 0.5,
+"tilt": 0.0,
+"motion": 4.2,
+"jerk": 2.9
+},
+{
+"t": 1.0,
+"tilt": -1.76,
+"motion": 15.1,
+"jerk": 0.2
+},
+{
+"t": 1.5,
+"tilt": -6.1,
+"motion": 15.8,
+"jerk": 0.1
+},
+{
+"t": 2.0,
+"tilt": -2.2,
+"motion": 15.8,
+"jerk": 0.1
+},
+{
+"t": 2.5,
+"tilt": -6.65,
+"motion": 15.5,
+"jerk": 0.1
+},
+{
+"t": 3.0,
+"tilt": -5.52,
+"motion": 15.4,
+"jerk": 0.0
+},
+{
+"t": 3.5,
+"tilt": -5.38,
+"motion": 15.4,
+"jerk": 0.1
+},
+{
+"t": 4.0,
+"tilt": -4.81,
+"motion": 15.3,
+"jerk": 0.1
+},
+{
+"t": 4.5,
+"tilt": -8.05,
+"motion": 15.4,
+"jerk": 0.1
+},
+{
+"t": 5.0,
+"tilt": -8.06,
+"motion": 15.9,
+"jerk": 0.1
+},
+{
+"t": 5.5,
+"tilt": -8.32,
+"motion": 10.5,
+"jerk": 2.6
+}
+]
+},
+"raw/dji_mimo_20261018_152402_0508_1792360785775_video_glamour.mp4": {
+"fps": 30.0,
+"frames": 180,
+"bins": [
+{
+"t": 0.0,
+"tilt": 0.0,
+"motion": 0.1,
+"jerk": 0.1
+},
+{
+"t": 0.5,
+"tilt": 0.0,
+"motion": 0.1,
+"jerk": 0.0
+},
+{
+"t": 1.0,
+"tilt": -0.4,
+"motion": 9.4,
+"jerk": 2.3
+},
+{
+"t": 1.5,
+"tilt": 0.25,
+"motion": 15.6,
+"jerk": 0.1
+},
+{
+"t": 2.0,
+"tilt": 0.0,
+"motion": 16.0,
+"jerk": 0.1
+},
+{
+"t": 2.5,
+"tilt": null,
+"motion": 15.7,
+"jerk": 0.1
+},
+{
+"t": 3.0,
+"tilt": null,
+"motion": 15.6,
+"jerk": 0.0
+},
+{
+"t": 3.5,
+"tilt": null,
+"motion": 15.7,
+"jerk": 0.1
+},
+{
+"t": 4.0,
+"tilt": null,
+"motion": 15.6,
+"jerk": 0.0
+},
+{
+"t": 4.5,
+"tilt": null,
+"motion": 15.3,
+"jerk": 0.1
+},
+{
+"t": 5.0,
+"tilt": null,
+"motion": 15.8,
+"jerk": 0.1
+},
+{
+"t": 5.5,
+"tilt": null,
+"motion": 13.4,
+"jerk": 2.9
+}
+]
+},
+"raw/dji_mimo_20261018_152412_0509_1792360790838_video_glamour.mp4": {
+"fps": 30.0,
+"frames": 210,
+"bins": [
+{
+"t": 0.0,
+"tilt": null,
+"motion": 0.0,
+"jerk": 0.0
+},
+{
+"t": 0.5,
+"tilt": null,
+"motion": 0.1,
+"jerk": 0.0
+},
+{
+"t": 1.0,
+"tilt": null,
+"motion": 8.8,
+"jerk": 2.4
+},
+{
+"t": 1.5,
+"tilt": null,
+"motion": 15.7,
+"jerk": 0.1
+},
+{
+"t": 2.0,
+"tilt": null,
+"motion": 9.2,
+"jerk": 2.2
+},
+{
+"t": 2.5,
+"tilt": null,
+"motion": 8.0,
+"jerk": 1.9
+},
+{
+"t": 3.0,
+"tilt": null,
+"motion": 15.3,
+"jerk": 0.1
+},
+{
+"t": 3.5,
+"tilt": null,
+"motion": 15.4,
+"jerk": 0.0
+},
+{
+"t": 4.0,
+"tilt": null,
+"motion": 15.3,
+"jerk": 0.2
+},
+{
+"t": 4.5,
+"tilt": 2.16,
+"motion": 15.4,
+"jerk": 0.3
+},
+{
+"t": 5.0,
+"tilt": 3.28,
+"motion": 15.8,
+"jerk": 0.2
+},
+{
+"t": 5.5,
+"tilt": 1.65,
+"motion": 15.6,
+"jerk": 0.1
+},
+{
+"t": 6.0,
+"tilt": 1.68,
+"motion": 8.0,
+"jerk": 2.2
+},
+{
+"t": 6.5,
+"tilt": 0.76,
+"motion": 0.1,
+"jerk": 0.0
+}
+]
+},
+"raw/dji_mimo_20261018_152424_0510_1792360794686_video_glamour.mp4": {
+"fps": 30.0,
+"frames": 150,
+"bins": [
+{
+"t": 0.0,
+"tilt": 2.62,
+"motion": 0.0,
+"jerk": 0.0
+},
+{
+"t": 0.5,
+"tilt": 1.12,
+"motion": 1.6,
+"jerk": 2.7
+},
+{
+"t": 1.0,
+"tilt": 2.19,
+"motion": 14.9,
+"jerk": 0.7
+},
+{
+"t": 1.5,
+"tilt": 2.64,
+"motion": 15.5,
+"jerk": 0.6
+},
+{
+"t": 2.0,
+"tilt": 0.3,
+"motion": 15.3,
+"jerk": 0.3
+},
+{
+"t": 2.5,
+"tilt": null,
+"motion": 15.2,
+"jerk": 0.2
+},
+{
+"t": 3.0,
+"tilt": null,
+"motion": 15.5,
+"jerk": 0.1
+},
+{
+"t": 3.5,
+"tilt": null,
+"motion": 15.5,
+"jerk": 0.0
+},
+{
+"t": 4.0,
+"tilt": null,
+"motion": 15.0,
+"jerk": 0.6
+},
+{
+"t": 4.5,
+"tilt": null,
+"motion": 1.9,
+"jerk": 2.3
+}
+]
+}
+}
