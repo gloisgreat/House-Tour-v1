@@ -1,8 +1,8 @@
 """Render transcript/cuts.json with one ffmpeg filtergraph, then verify the frame count.
 Each segment may name its own "file"; otherwise the raw clip given on the command line is used.
 Usage: python3 scripts/render.py [raw/<clip>] [--out cut.mp4] [--preview]
-  --preview renders a small 360-wide draft for review instead of the full-size cut."""
-import argparse, json, subprocess
+  --preview renders a small 360x640 draft for review instead of the full-size cut."""
+import argparse, json, math, subprocess
 from fractions import Fraction
 
 ap = argparse.ArgumentParser()
@@ -38,10 +38,22 @@ for i in range(1, len(frames)):  # pieces from the same clip must not overlap
     if frames[i][0] == frames[i - 1][0]:
         assert frames[i][1] >= frames[i - 1][2], f"overlap at piece {i}"
 
-scale = ",scale=360:-2" if args.preview else ""
+cut = json.load(open("transcript/cuts.json"))
+ow, oh = (cut.get("output") or {}).get("width", w), (cut.get("output") or {}).get("height", h)
+if args.preview:
+    ow, oh = 360, 640
+
+def straighten(roll):
+    # rotate by the measured roll, then zoom just enough that no black corner shows
+    if not roll:
+        return f",scale={ow}:{oh}"
+    th = math.radians(abs(roll))
+    z = math.cos(th) + max(w / h, h / w) * math.sin(th)
+    return (f",rotate={math.radians(roll):.5f}:fillcolor=black,"
+            f"crop=trunc(iw/{z:.4f}/2)*2:trunc(ih/{z:.4f}/2)*2,scale={ow}:{oh}")
 parts, labels = [], []
 for i, (k, a, b) in enumerate(frames):
-    parts.append(f"[{k}:v]trim=start_frame={a}:end_frame={b},setpts=PTS-STARTPTS{scale}[v{i}]")
+    parts.append(f"[{k}:v]trim=start_frame={a}:end_frame={b},setpts=PTS-STARTPTS{straighten(segs[i].get('roll', 0))},setsar=1[v{i}]")
     parts.append(f"[{k}:a]atrim=start={float(a / fps)}:end={float(b / fps)},asetpts=PTS-STARTPTS[a{i}]")
     labels.append(f"[v{i}][a{i}]")
 parts.append("".join(labels) + f"concat=n={len(frames)}:v=1:a=1[v][a]")
@@ -55,6 +67,6 @@ want = sum(b - a for _, a, b in frames)
 got = int(probe(args.out, "stream=nb_read_frames", ["-count_frames"])["streams"][0]["nb_read_frames"])
 dur = float(json.loads(subprocess.check_output(
     ["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "json", args.out]))["format"]["duration"])
-print(f"source {w}x{h} @ {float(fps):.3f} fps, pieces={len(frames)}")
+print(f"output {ow}x{oh}, source {w}x{h} @ {float(fps):.3f} fps, pieces={len(frames)}")
 print(f"frames: expected {want}, got {got} -> {'OK' if want == got else 'MISMATCH'}")
 print(f"duration: expected {float(want / fps):.3f}s, got {dur:.3f}s")
